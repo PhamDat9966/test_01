@@ -6,6 +6,7 @@
 //         echo "<pre>";
 //         print_r($_SERVER);
 //         echo "</pre>";
+//         echo "ABC"; 
         
  
         $domain = $_SERVER['HTTP_HOST'];
